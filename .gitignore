@@ -144,3 +144,9 @@ dmypy.json
 
 # macOS filesystem
 *.DS_Store
+
+# generated_images
+generated_images/
+
+# models
+models/
